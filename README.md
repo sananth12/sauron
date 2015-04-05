@@ -7,7 +7,7 @@ Programmers like you and me tend to strain our eyes by spendnig hours at the com
 Such strain draws Sauron's attenton to you, and he reminds you to take a 20s break!
 
 ##What
-Sauron reminds the user to take regular breaks and helps prevent RSI & [CVS](http://en.wikipedia.org/wiki/Computer_vision_syndrome).
+Sauron reminds the user to take regular breaks and helps prevent [RSI](http://en.wikipedia.org/wiki/Repetitive_strain_injury) & [CVS](http://en.wikipedia.org/wiki/Computer_vision_syndrome).
 Since it  is nearly impossible for any computer users to remember that they have to take a break every 20 minutes, Sauron can help you in your mission.
 
 Installing
