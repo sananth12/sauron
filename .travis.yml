@@ -9,7 +9,7 @@ install:
 # command to run tests
 script:
   - nosetests
-after_success:
-  coveralls
+#after_success:
+#  coveralls
 notifications:
   email: false

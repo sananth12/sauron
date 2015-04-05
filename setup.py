@@ -11,6 +11,7 @@ if sys.version_info >= (3,):
 
 setup(name='sauron',
     version='1.0.0',
+    install_requires=[r for r in open('requirements.txt', 'r').read().split('\n') if r],
     author='Anantha Natarajan S',
     author_email='sananthanatarajan12@gmail.com',
     packages=['sauron'],
