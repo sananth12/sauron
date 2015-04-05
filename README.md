@@ -13,7 +13,7 @@ Since it  is nearly impossible for any computer users to remember that they have
 Installing
 ==========
 
-### Using pip:
+### Using pip: (Not yet on pip...)
 
 ```sh
 $ pip install sauron
