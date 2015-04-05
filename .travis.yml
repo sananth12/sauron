@@ -5,12 +5,11 @@ python:
   - "3.4"
 # command to install package
 install:
-  - pip install py-notify
-  - sudo apt-get install libnotify4
+  - pip install ImageScraper
   - python setup.py install
 # command to run tests
 script:
-  - nosetests
+  - image-scraper ananth.co.in
 #after_success:
 #  coveralls
 notifications:

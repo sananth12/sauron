@@ -26,6 +26,8 @@ $ cd sauron/
 $ python setup.py install
 ```
 
+Note that ```Sauron``` depends on ```libnotify```.
+
 Usage
 =====
 By default, Sauron reminds you every 20 minutes.
