@@ -19,7 +19,7 @@ setup(name='sauron',
         },
     test_suite='tests',
     url='https://github.com/sananth12/sauron/',
-    description='A simple image scraper to download all images from a given url',
+    description='A simple tool that helps you avoid RSI and CSV.',
     classifiers=[
         'Operating System :: POSIX',
         'Programming Language :: Python',
