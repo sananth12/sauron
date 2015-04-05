@@ -5,6 +5,7 @@ python:
   - "3.4"
 # command to install package
 install:
+  - pip install py-notify
   - python setup.py install
 # command to run tests
 script:
