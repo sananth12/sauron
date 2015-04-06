@@ -16,7 +16,7 @@ Installing
 ### Using pip: (Not yet on pip...)
 
 ```sh
-$ pip install sauron
+$ pip install sauron-eye
 ```
 ### Build from source:
 Download the zip, or clone the repo.
