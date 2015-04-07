@@ -13,10 +13,10 @@ Since it  is nearly impossible for any computer users to remember that they have
 Installing
 ==========
 
-### Using pip: (Not yet on pip...)
+### Using pip: 
 
 ```sh
-$ pip install sauron-eye
+$ pip install -e git+https://github.com/sananth12/sauron.git#egg=sauron
 ```
 ### Build from source:
 Download the zip, or clone the repo.
