@@ -14,16 +14,16 @@ if version_info.major is 2:
 
 Interrupt = False
             
-def pop(title, message, logo):
+def pop(title, message):
     if notifyModule is "pynotify":
                 pynotify.init("Scorer")
-                pynotify.Notification(title, message, logo).show()
+                pynotify.Notification(title, message).show()
     elif notifyModule is "Notify":
                 Notify.init("Scorer")
-                Notify.Notification.new(title, message, logo).show()
+                Notify.Notification.new(title, message).show()
     else:
                 notify2.init("Scorer")
-                notify2.Notification(title, message, logo).show()
+                notify2.Notification(title, message).show()
     return True
 
 def get_args():
@@ -40,8 +40,7 @@ def console_main():
     alert_time = get_args()
     while True:
         try:
-            pop("Sauron sees you!", "Time to rest those eyes!\n Look away from the screen for 20s!",
-                "path/to/image")
+            pop("Sauron sees you!", "Time to rest those eyes!\n Look away from the screen for 20s!")
             sleep(alert_time)
             
         except KeyboardInterrupt:
