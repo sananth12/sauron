@@ -2,6 +2,9 @@
 
 [Sauron](http://en.wikipedia.org/wiki/Sauron) has great psychic powers, including the ability to "see" at great distances.
 
+![Sauron](https://raw.githubusercontent.com/sananth12/sauron/master/logo.gif "Sauron : Take a break!")
+
+
 Programmers like you and me tend to strain our eyes by spending hours at the computer trying to change the world :)
 
 Such strain draws Sauron's attenton to you, and he reminds you to take a 20s break!
