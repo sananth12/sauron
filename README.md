@@ -1,5 +1,5 @@
 # Sauron
-
+ [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 [Sauron](http://en.wikipedia.org/wiki/Sauron) has great psychic powers, including the ability to "see" at great distances.
 
 ![Sauron](https://raw.githubusercontent.com/sananth12/sauron/master/logo.gif "Sauron : Take a break!")
