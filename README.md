@@ -51,3 +51,7 @@ Computer vision syndrome affects about 90% of the people who spend three hours o
 
 ## [20-20-20 Rule](http://visianinfo.com/the-20-20-20-rule-preventing-digital-eye-strain/)
 To help you deal with this problem, the 20-20-20 rule suggests that after every 20 minutes, you should take a break for at least 20 seconds and look at objects that are 20 feet(6m) away.
+
+### NOTE
+
+Tested and works in Gnome and Unity.
