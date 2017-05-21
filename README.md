@@ -9,14 +9,14 @@ Programmers like you and me tend to strain our eyes by spending hours at the com
 
 Such strain draws Sauron's attenton to you, and he reminds you to take a 20s break!
 
-##What
+## What
 Sauron reminds the user to take regular breaks and helps prevent [RSI](http://en.wikipedia.org/wiki/Repetitive_strain_injury) & [CVS](http://en.wikipedia.org/wiki/Computer_vision_syndrome).
 Since it  is nearly impossible for any computer users to remember that they have to take a break every 20 minutes, Sauron can help you in your mission.
 
 Installing
 ==========
 
-### Using pip: 
+### Using pip:
 
 ```sh
 $ pip install -e git+https://github.com/sananth12/sauron.git#egg=sauron
@@ -29,7 +29,7 @@ $ cd sauron/
 $ python setup.py install
 ```
 
-Note that ```Sauron``` depends on ```libnotify```.
+Note that `Sauron` depends on `libnotify`.
 
 Usage
 =====
@@ -44,7 +44,7 @@ or,
 $ sauron --time 60 # Reminds you every minute!
 ```
 
-##Why
+## Why
 Computer vision syndrome (CVS) is a temporary condition resulting from focusing the eyes on a computer display for protracted, uninterrupted periods of time. Some symptoms of CVS include headaches, blurred vision, neck pain, redness in the eyes, fatigue, eye strain, dry/ irritated eyes, double vision, vertigo/dizziness and difficulty refocusing the eyes.
 
 Computer vision syndrome affects about 90% of the people who spend three hours or more a day at a computer.
